@@ -246,6 +246,14 @@
     "IsSystem": true,
     "Name": "Domain Name Administrator",
     "ObjectId": "8329153b-31d0-4727-b945-745eb3bc5f31"
+  },  
+  {
+    "ExtensionData": {},
+    "Description": "Can manage all aspects of the Dynamics 365 Business Central product.",
+    "IsEnabled": true,
+    "IsSystem": true,
+    "Name": "Dynamics 365 Business Central Administrator",
+    "ObjectId": "963797fb-eb3b-4cde-8ce3-5878b3f32a3f"
   },
   {
     "ExtensionData": {},
